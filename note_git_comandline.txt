@@ -1,0 +1,17 @@
+đối với dự án mới
+
+
+1. khởi tạo: git init
+2. kết nối: git remote add origin DOMAIN
+
+
+xem DOMAIN repository hiện tại: git remote show origin
+
+
+- đẩy code lên: 3 bước
++ git add -add
++ git commit -m " nội dung commit"
++git push
+
+
+- git status : để kiểm tra
