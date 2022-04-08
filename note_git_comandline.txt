@@ -9,9 +9,15 @@ xem DOMAIN repository hiện tại: git remote show origin
 
 
 - đẩy code lên: 3 bước
-+ git add -add
++ git add -A
 + git commit -m " nội dung commit"
 +git push
+++git push --set-upstream origin master
 
 
 - git status : để kiểm tra
+
+git branch: hiện các nhánh
+
+-tạo nhánh 
+git 
